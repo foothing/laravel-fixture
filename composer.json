@@ -1,0 +1,21 @@
+{
+    "name": "foothing/laravel-fixture",
+    "description": "Lightweight fixtures for Laravel 4",
+    "authors": [
+        {
+            "name": "Fabrizio Ranieri",
+            "email": "fabrizio.ranieri@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/database": ">=4.0.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Foothing\\LaravelFixture": "src/"
+        }
+    },
+
+    "minimum-stability": "stable"
+}
